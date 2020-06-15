@@ -1,6 +1,6 @@
-# Data Science Tools and Techniques
+# Data Science Tools and Techniques CNN Exercise
 
-(C) 2019 Mark M. Bailey
+(C) 2020 John Durkee, Aaron Lozano 
 
 ## About
-This repository contains example code and supporting documents for the Convolutional Neural Network exercise.
+This repository contains modified code and supporting documents for the Convolutional Neural Network exercise which was originally created by Mark M. Bailey. https://github.com/NIU-Data-Science/CNN-exercise
